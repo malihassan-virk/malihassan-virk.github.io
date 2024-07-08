@@ -1,1 +1,1 @@
-echo "Your app-ads.txt content" > app-ads.txt
+echo "google.com, pub-7814849950389620, DIRECT, f08c47fec0942fa0" > app-ads.txt
