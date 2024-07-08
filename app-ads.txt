@@ -1,0 +1,1 @@
+echo "Your app-ads.txt content" > app-ads.txt
