@@ -6,6 +6,20 @@
       "disableLink": false,
       "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/short.jpg",
       "url": "https://youtube.com/shorts/GCZFKc1Klqc?si=YaFtC6drWs7HX8MB"
+    },
+    {
+      "active": true,
+      "adtype": "Poetry - Sir Allama Muhammad Iqbal",
+      "disableLink": false,
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/one.jpg",
+      "url": "https://youtube.com/shorts/xf7PZAHktaw?si=QH_sWNbjf7jP5HYJ"
+    },
+    {
+      "active": true,
+      "adtype": "Poetry - Sir Allama Muhammad Iqbal",
+      "disableLink": false,
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/two.jpg",
+      "url": "https://youtube.com/shorts/wP8BEybFDZg?si=YJ2NK3t5vvUUY1kY"
     }
   ],
   "version": [{ "active": true, "android": 2, "ios": 1, "version": 1 }],
