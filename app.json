@@ -1,0 +1,34 @@
+{
+  "add": [
+    {
+      "active": true,
+      "adtype": "Prayers for the Deceased: ISMAIL HANIYAH",
+      "disableLink": true,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/tmb-projects.appspot.com/o/Cloud%20Messagings%2FPicsArt.jpg?alt=media&token=e364bb1a-3089-40ef-8ed4-f080d68aa720",
+      "url": "https://www.youtube.com/watch?v=8UiroNx62Nk&ab_channel=SAMAATV"
+    }
+  ],
+  "version": [{ "active": true, "android": 2, "ios": 1, "version": 1 }],
+  "media": [
+    {
+      "active": true,
+      "type": "youtube",
+      "url": "https://youtube.com/shorts/LY2QDy4NYhw?si=jzPIQq01lXUVdh7I"
+    },
+    {
+      "active": true,
+      "type": "youtube",
+      "url": "https://youtube.com/shorts/PEX-iF63G-c?si=_P13PFjlrZy3N3Nf"
+    },
+    {
+      "active": true,
+      "type": "youtube",
+      "url": "https://youtu.be/jJzvs1Zk2dA?si=hoA37BqQ02TI7LHv"
+    },
+    {
+      "active": true,
+      "type": "youtube",
+      "url": "https://youtube.com/shorts/55DM2uwb9js?si=9BB7teqRkvxtWEpo"
+    }
+  ]
+}
