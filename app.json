@@ -2,10 +2,10 @@
   "add": [
     {
       "active": true,
-      "adtype": "Prayers for the Deceased: ISMAIL HANIYAH",
-      "disableLink": true,
-      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/tmb-projects.appspot.com/o/Cloud%20Messagings%2FPicsArt.jpg?alt=media&token=e364bb1a-3089-40ef-8ed4-f080d68aa720",
-      "url": "https://www.youtube.com/watch?v=8UiroNx62Nk&ab_channel=SAMAATV"
+      "adtype": "FLEE,THEREFORE TO ALLAH",
+      "disableLink": false,
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/short.jpg",
+      "url": "https://youtube.com/shorts/GCZFKc1Klqc?si=YaFtC6drWs7HX8MB"
     }
   ],
   "version": [{ "active": true, "android": 2, "ios": 1, "version": 1 }],
