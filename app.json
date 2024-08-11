@@ -2,25 +2,11 @@
   "add": [
     {
       "active": true,
-      "adtype": "FLEE,THEREFORE TO ALLAH",
+      "adtype": "Syed Maudodi says",
       "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/short.jpg",
-      "url": "https://youtube.com/shorts/GCZFKc1Klqc?si=YaFtC6drWs7HX8MB"
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/tmb-projects.appspot.com/o/Cloud%20Messagings%2FSyed%20lecture.jpg?alt=media&token=053e7022-bf32-4954-b9bb-e9c5f5944b0c",
+      "url": "https://firebasestorage.googleapis.com/v0/b/tmb-projects.appspot.com/o/Cloud%20Messagings%2FSyed%20lecture.jpg?alt=media&token=053e7022-bf32-4954-b9bb-e9c5f5944b0c"
     },
-    {
-      "active": true,
-      "adtype": "Poetry - Sir Allama Muhammad Iqbal",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/one.jpg",
-      "url": "https://youtube.com/shorts/xf7PZAHktaw?si=QH_sWNbjf7jP5HYJ"
-    },
-    {
-      "active": true,
-      "adtype": "Poetry - Sir Allama Muhammad Iqbal",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/two.jpg",
-      "url": "https://youtube.com/shorts/wP8BEybFDZg?si=YJ2NK3t5vvUUY1kY"
-    }
   ],
   "version": [{ "active": true, "android": 4, "ios": 4, "version": 4 }],
   "media": [
