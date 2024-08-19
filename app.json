@@ -1,13 +1,6 @@
 {
   "add": [
     {
-      "active": false,
-      "adtype": "Thoughts....!",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/band.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/band.jpg"
-    },
-    {
       "active": true,
       "adtype": "Syed Munawer Hassan says",
       "disableLink": false,
