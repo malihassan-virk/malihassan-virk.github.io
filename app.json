@@ -2,6 +2,13 @@
   "add": [
     {
       "active": true,
+      "adtype": "Do not lose hope nor be sad",
+      "disableLink": false,
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/donotlosehope.jpg",
+      "url": "https://malihassan-virk.github.io/tafheemulquranApp/donotlosehope.jpg"
+    },
+    {
+      "active": true,
       "adtype": "Exciting feature coming soon!",
       "disableLink": false,
       "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/live.jpg",
