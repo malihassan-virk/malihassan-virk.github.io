@@ -1,6 +1,13 @@
 {
   "add": [
     {
+      "active": false,
+      "adtype": "And My Mercy encompasses everything.",
+      "disableLink": false,
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/mercy.jpg",
+      "url": "https://malihassan-virk.github.io/tafheemulquranApp/mercy.jpg"
+    },
+    {
       "active": true,
       "adtype": "Do not lose hope nor be sad",
       "disableLink": false,
