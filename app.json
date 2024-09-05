@@ -6,20 +6,6 @@
       "disableLink": false,
       "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran1.jpg",
       "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran1.jpg"
-    },
-    {
-      "active": false,
-      "adtype": "Do not lose hope nor be sad",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/donotlosehope.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/donotlosehope.jpg"
-    },
-    {
-      "active": false,
-      "adtype": "Exciting feature coming soon!",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/live.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/live.jpg"
     }
   ],
   "version": [{ "active": true, "android": 6, "ios": 7, "version": 7 }],
