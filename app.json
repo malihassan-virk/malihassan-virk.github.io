@@ -13,6 +13,13 @@
       "disableLink": false,
       "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran1.jpg",
       "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran1.jpg"
+    },
+    {
+      "active": true,
+      "adtype": "Syed Maudoodi Says",
+      "disableLink": false,
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran3.jpg",
+      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran3.jpg"
     }
   ],
   "version": [{ "active": true, "android": 6, "ios": 7, "version": 7 }],
