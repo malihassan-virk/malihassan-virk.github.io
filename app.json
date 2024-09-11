@@ -4,29 +4,8 @@
       "active": true,
       "adtype": "Syed Maudoodi Says",
       "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran10.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran10.jpg"
-    },
-    {
-      "active": true,
-      "adtype": "Al-Quran",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran4.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran4.jpg"
-    },
-    {
-      "active": true,
-      "adtype": "Syed Maudoodi Says",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran1.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran1.jpg"
-    },
-    {
-      "active": true,
-      "adtype": "Syed Maudoodi Says",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran3.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran3.jpg"
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran5.jpg",
+      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran5.jpg"
     }
   ],
   "version": [{ "active": true, "android": 6, "ios": 7, "version": 7 }],
