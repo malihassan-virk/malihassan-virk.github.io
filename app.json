@@ -2,6 +2,13 @@
   "add": [
     {
       "active": true,
+      "adtype": "ھمارے محمد ﷺ",
+      "disableLink": false,
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran29.jpg",
+      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran29.jpg"
+    },
+    {
+      "active": true,
       "adtype": "Allah says",
       "disableLink": false,
       "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran7.jpg",
