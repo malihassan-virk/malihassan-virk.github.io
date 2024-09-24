@@ -2,38 +2,10 @@
   "add": [
     {
       "active": true,
-      "adtype": "",
+      "adtype": "🤲",
       "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran17.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran17.jpg"
-    },
-    {
-      "active": true,
-      "adtype": "",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran29.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran29.jpg"
-    },
-    {
-      "active": true,
-      "adtype": "",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran7.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran7.jpg"
-    },
-    {
-      "active": true,
-      "adtype": "",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran6.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran6.jpg"
-    },
-    {
-      "active": true,
-      "adtype": "",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran5.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran5.jpg"
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/brotherDua.jpg",
+      "url": "https://malihassan-virk.github.io/tafheemulquranApp/brotherDua.jpg"
     }
   ],
   "version": [{ "active": true, "android": 6, "ios": 7, "version": 7 }],
