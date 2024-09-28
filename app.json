@@ -6,6 +6,13 @@
       "disableLink": false,
       "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/brotherDua.jpg",
       "url": "https://malihassan-virk.github.io/tafheemulquranApp/brotherDua.jpg"
+    },
+    {
+      "active": true,
+      "adtype": "Allah ❤️",
+      "disableLink": false,
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran9.jpg",
+      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran9.jpg"
     }
   ],
   "version": [{ "active": true, "android": 6, "ios": 7, "version": 7 }],
