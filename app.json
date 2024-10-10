@@ -4,6 +4,13 @@
       "active": true,
       "adtype": "",
       "disableLink": false,
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran17.jpg",
+      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran17.jpg"
+    },
+    {
+      "active": true,
+      "adtype": "",
+      "disableLink": false,
       "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran14.jpg",
       "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran14.jpg"
     },
@@ -13,13 +20,6 @@
       "disableLink": false,
       "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran11.jpg",
       "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran11.jpg"
-    },
-    {
-      "active": true,
-      "adtype": "🤲",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/brotherDua.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/brotherDua.jpg"
     }
   ],
   "version": [{ "active": true, "android": 6, "ios": 7, "version": 7 }],
