@@ -1,25 +1,11 @@
 {
   "add": [
-     {
-      "active": true,
-      "adtype": "Ramadan Mubarak",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/app/ramadan.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/app/ramadan.jpg"
-    },
     {
       "active": true,
       "adtype": "",
       "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran36.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran36.jpg"
-    },
-    {
-      "active": true,
-      "adtype": "",
-      "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran31.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran31.jpg"
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran25.jpg",
+      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran25.jpg"
     }
   ],
   "version": [{ "active": true, "android": 6, "ios": 7, "version": 7 }],
