@@ -2,10 +2,10 @@
   "add": [
     {
       "active": true,
-      "adtype": "",
+      "adtype": "Everlasting memory",
       "disableLink": false,
-      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/alquran1.jpg",
-      "url": "https://malihassan-virk.github.io/tafheemulquranApp/alquran25.jpg"
+      "thumbnail": "https://malihassan-virk.github.io/tafheemulquranApp/newyear.png",
+      "url": "https://malihassan-virk.github.io/tafheemulquranApp/newyear.png"
     }
   ],
   "version": [{ "active": true, "android": 6, "ios": 7, "version": 7 }],
